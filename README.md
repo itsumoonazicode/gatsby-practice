@@ -1,4 +1,12 @@
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
+
+# 本レポジトリの目的
+
+- 過去につくった静的サイトをGatsbyに組み込む
+- Contentfulを利用して自作ブログをつくる
+
+以下はGatsbyそのもののReadmeです。（残しておきたいので削除せずにそのままにしています。）
+
 <p align="center">
   <a href="https://www.gatsbyjs.org">
     <img alt="Gatsby" src="https://www.gatsbyjs.org/monogram.svg" width="60" />
